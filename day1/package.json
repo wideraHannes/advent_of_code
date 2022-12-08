@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "name": "advent_of_code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1_calories.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
